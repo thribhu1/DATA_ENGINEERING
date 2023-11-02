@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/thribhu1/TEXT_SUMMARIZER_NLP
+Author: thribhu1
+Author-email: thribhvansaitej@gmail.com
+Project-URL: Bug Tracker, https://github.com/thribhu1/TEXT_SUMMARIZER_NLP/issues
+
+# conda create -n textS python=3.8 -y # to create environment named textS
+
+# conda activate textS # to activate
