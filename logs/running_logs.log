@@ -1,0 +1,100 @@
+[2023-11-02 13:22:59,017: INFO: main: Welcome to Custom Text Summarizer NLP App]
+[2023-11-02 13:26:06,698: INFO: main: Welcome to Custom Text Summarizer NLP App]
+[2023-11-05 11:07:54,206: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 11:07:54,208: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 11:09:30,424: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 11:09:30,426: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 11:10:44,763: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 11:10:44,771: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 11:10:44,774: INFO: common: created directory at: artifacts]
+[2023-11-05 11:10:44,775: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 11:11:19,965: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 11:11:19,968: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 11:11:19,969: INFO: common: created directory at: artifacts]
+[2023-11-05 11:11:19,970: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:15:40,830: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 19:15:40,842: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 19:15:40,844: INFO: common: created directory at: artifacts]
+[2023-11-05 19:15:40,845: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:21:38,731: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 19:21:38,738: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 19:21:38,740: INFO: common: created directory at: artifacts]
+[2023-11-05 19:21:38,740: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:21:39,700: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 19:21:39,702: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 19:21:39,703: INFO: common: created directory at: artifacts]
+[2023-11-05 19:21:39,704: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:22:24,207: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 19:22:24,211: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 19:22:24,213: INFO: common: created directory at: artifacts]
+[2023-11-05 19:22:24,214: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:23:09,761: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 19:23:09,765: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 19:23:09,767: INFO: common: created directory at: artifacts]
+[2023-11-05 19:23:09,768: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:23:11,402: INFO: 1184337117: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7B9C:72B0:6D3B0A:88485D:65483FFE
+Accept-Ranges: bytes
+Date: Mon, 06 Nov 2023 01:23:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dfw-kdfw8210130-DFW
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1699233791.626276,VS0,VE398
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 738445730785480579cfae3b8f077a653934973b
+Expires: Mon, 06 Nov 2023 01:28:11 GMT
+Source-Age: 0
+
+]
+[2023-11-05 19:38:38,392: INFO: main: Starting Data Ingestion stage pipeline]
+[2023-11-05 19:38:38,392: ERROR: main: name 'data_ingestion' is not defined]
+Traceback (most recent call last):
+  File "C:\Users\15135\OneDrive - University of Cincinnati\Documents\NLP\TEXT_SUMMARIZER_NLP\main.py", line 7, in <module>
+    data_ingestion - DataIngestionTrainingPipeline()
+NameError: name 'data_ingestion' is not defined
+[2023-11-05 19:38:52,201: INFO: main: Starting Data Ingestion stage pipeline]
+[2023-11-05 19:38:52,203: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-11-05 19:38:52,204: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-11-05 19:38:52,205: INFO: common: created directory at: artifacts]
+[2023-11-05 19:38:52,205: INFO: common: created directory at: artifacts/data_ingestion]
+[2023-11-05 19:38:54,369: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7B9C:72B0:6D3B0A:88485D:65483FFE
+Accept-Ranges: bytes
+Date: Mon, 06 Nov 2023 01:38:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-dfw-kdfw8210055-DFW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1699234734.818240,VS0,VE87
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: f5dbca6544919bc372a21a9ae68aa50a086c35e8
+Expires: Mon, 06 Nov 2023 01:43:53 GMT
+Source-Age: 0
+
+]
+[2023-11-05 19:38:54,506: INFO: main: Finished Data Ingestion stage pipeline]
