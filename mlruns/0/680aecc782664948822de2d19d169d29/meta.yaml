@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/15135/OneDrive%20-%20University%20of%20Cincinnati/Documents/NLP/TEXT_SUMMARIZER_NLP/mlruns/0/680aecc782664948822de2d19d169d29/artifacts
+end_time: 1699562951230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 680aecc782664948822de2d19d169d29
+run_name: artifacts/model_trainer
+run_uuid: 680aecc782664948822de2d19d169d29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699559149893
+status: 3
+tags: []
+user_id: '15135'
